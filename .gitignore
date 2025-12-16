@@ -1,0 +1,9 @@
+# --- IDE e Configurações Pessoais ---
+.vscode/
+*.swp
+
+# --- Compilação e Executáveis (Windows) ---
+*.exe
+*.obj
+*.o
+
