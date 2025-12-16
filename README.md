@@ -125,7 +125,7 @@ cppcheck --enable=all --verbose codigo_teste.c
 
 -----
 
-## 🔍 Interpretando os Resultados
+## Interpretando os Resultados
 
 O Cppcheck retorna erros no formato: `[arquivo]:[linha]: (tipo) [ID] Mensagem`. Abaixo, émostrar os erros encontrados no teste:
 
@@ -190,7 +190,7 @@ O Cppcheck pode ser integrado ao **VS Code** (via extensões) ou ao **Visual Stu
 
 -----
 
-## 🔗 Referências
+## Referências
 
   * [Manual do Cppcheck](https://cppcheck.sourceforge.io/manual.html)
   * [Lista de Verificações (Checks)](https://sourceforge.net/p/cppcheck/wiki/ListOfChecks/)
